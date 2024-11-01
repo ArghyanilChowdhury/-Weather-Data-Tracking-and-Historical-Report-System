@@ -1,6 +1,6 @@
 #!/bin/bash
 
-API_KEY="63fc28e75ec11d3914e2f0d72ba6f595"
+API_KEY="" # Replace with your OpenWeatherMap API key
 OUTPUT_FILE="weather_data.json"
 
 # Function to get current date
