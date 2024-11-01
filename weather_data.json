@@ -1,0 +1,26 @@
+[
+  {
+    "city": "Chandigarh",
+    "date": "2024-11-01",
+    "weather": "Clear",
+    "temperature": "31.54",
+    "humidity": "24",
+    "wind_speed": "3.68"
+  },
+  {
+    "city": "Kharar",
+    "date": "2024-11-01",
+    "weather": "Clear",
+    "temperature": "31.1",
+    "humidity": "22",
+    "wind_speed": "3.78"
+  },
+  {
+    "city": "Kharar",
+    "date": "2024-11-01",
+    "weather": "Clear",
+    "temperature": "31.1",
+    "humidity": "22",
+    "wind_speed": "3.78"
+  }
+]
